@@ -9,8 +9,8 @@ Assignment
 About the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
 The attributes are as follows: 
- Sales -- Unit sales (in thousands) at each location
- Competitor Price -- Price charged by competitor at each location
+Sales -- Unit sales (in thousands) at each location
+Competitor Price -- Price charged by competitor at each location
  Income -- Community income level (in thousands of dollars)
  Advertising -- Local advertising budget for company at each location (in thousands of dollars)
  Population -- Population size in region (in thousands)
